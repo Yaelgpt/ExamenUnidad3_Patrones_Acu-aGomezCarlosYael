@@ -1,0 +1,8 @@
+D:\Yael\Documents\trabjos C#\Miercoles\Miercoles\bin\Debug\Miercoles.exe.config
+D:\Yael\Documents\trabjos C#\Miercoles\Miercoles\bin\Debug\Miercoles.exe
+D:\Yael\Documents\trabjos C#\Miercoles\Miercoles\bin\Debug\Miercoles.pdb
+D:\Yael\Documents\trabjos C#\Miercoles\Miercoles\obj\Debug\Miercoles.csproj.AssemblyReference.cache
+D:\Yael\Documents\trabjos C#\Miercoles\Miercoles\obj\Debug\Miercoles.csproj.CoreCompileInputs.cache
+D:\Yael\Documents\trabjos C#\Miercoles\Miercoles\obj\Debug\Miercoles.exe
+D:\Yael\Documents\trabjos C#\Miercoles\Miercoles\obj\Debug\Miercoles.pdb
+D:\Yael\Documents\trabjos C#\Miercoles\Miercoles\obj\Debug\Miercoles.exe.config
